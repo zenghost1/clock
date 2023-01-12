@@ -4,5 +4,4 @@ A Flutter project.
 
 ## UI
 
-This project is a starting point for a Flutter application.
-
+![flutter_clock_app](https://user-images.githubusercontent.com/89266411/212098860-9c300a3d-e1d4-4731-bfb0-c73c5c97a378.png)
